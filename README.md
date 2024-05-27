@@ -20,14 +20,12 @@ I'm a former history teacher with a background in global health- now I'm learnin
 
 ## Connect: 
 <p align="left">
-  <a href="mailto:away.mathay@gmail.com">
-    <img src="images/gm_image.png" alt="Gmail" width="10" height="10" />
+  <a href="mailto:away.mathay@gmail.com" style="display: inline-block; margin-right: 10px;">
+    <img src="images/gm_image.png" alt="Gmail" width="20" height="20" />
   </a>
-  <br>
-  <a href="https://www.linkedin.com/in/patrickmathay/">
-    <img src="images/lkd_image.png" alt="LinkedIn: Patrick Mathay" width="10" height="10" />
+  <a href="https://www.linkedin.com/in/patrickmathay/" style="display: inline-block; margin-left: 10px;">
+    <img src="images/lkd_image.png" alt="LinkedIn: Patrick Mathay" width="20" height="20" />
   </a>
-  <br>
 </p>
 
 Works well with others. If you're cooking up something meaningful, I'm probably interested. Feel free to reach out.
