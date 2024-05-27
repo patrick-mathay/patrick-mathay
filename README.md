@@ -19,13 +19,13 @@ I'm a former history teacher with a background in global health- now I'm learnin
 
 
 ## Connect: 
-<p align="center">
+<p align="left">
   <a href="mailto:away.mathay@gmail.com">
-    <img src="images/gm_image.png" alt="Gmail" width="5" height="5" />
+    <img src="images/gm_image.png" alt="Gmail" width="10" height="10" />
   </a>
   <br>
   <a href="https://www.linkedin.com/in/patrickmathay/">
-    <img src="images/lkd_image.png" alt="LinkedIn: Patrick Mathay" width="5" height="5" />
+    <img src="images/lkd_image.png" alt="LinkedIn: Patrick Mathay" width="10" height="10" />
   </a>
   <br>
 </p>
