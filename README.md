@@ -1,6 +1,6 @@
 # <p align="center">Welcome to my GitHub</p>
 
-I'm a former teacher and global health professional learning Data Science and Machine Learning. My current focus is on cloud computing.<br>
+I'm a former history teacher with a background in global health- now I'm learning Data Science and Machine Learning. My current focus is on cloud computing.<br>
 
 ## About Me
 ⛰️ From the Rockies, living in the Andes<br>
@@ -10,16 +10,24 @@ I'm a former teacher and global health professional learning Data Science and Ma
 
 
 ## My Skills:
-💻 Python | SQL /<br>
+💻 Python | SQL<br>
 📚 Pandas | Numpy | Matplotlib | Seaborn | Scikit-learn | FastAPI | Streamlit<br>
 🛢  MySQL | MongoDB | Cloud Storage | BigQuery<br>
-🔧 Docker | Hadoop | Hive | Spark<br>
+🔧 Docker | Airflow | Hadoop | Hive | Spark<br>
 📊 Power BI<br>
 ⚙️ GitHub | Jupyter | Google Colab | Visual Studio Code<br>
 
 
 ## Connect: 
-[![Gmail](images/gm_image.png))](mailto:away.mathay@gmail.com)<br>
-[![Linkedin: Patrick Mathay](/images/lkd_image.png))](https://www.linkedin.com/in/patrickmathay/)<br>
+<p align="center">
+  <a href="mailto:away.mathay@gmail.com">
+    <img src="images/gm_image.png" alt="Gmail" width="5" height="5" />
+  </a>
+  <br>
+  <a href="https://www.linkedin.com/in/patrickmathay/">
+    <img src="images/lkd_image.png" alt="LinkedIn: Patrick Mathay" width="5" height="5" />
+  </a>
+  <br>
+</p>
 
 Works well with others. If you're cooking up something meaningful, I'm probably interested. Feel free to reach out.
