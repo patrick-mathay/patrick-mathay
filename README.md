@@ -21,11 +21,12 @@ I'm a former history teacher with a background in global health- now I'm learnin
 ## Connect: 
 <p align="left">
   <a href="mailto:away.mathay@gmail.com" style="display: inline-block; margin-right: 10px;">
-    <img src="images/gm_image.png" alt="Gmail" width="20" height="20" />
+    <img src="images/gm_image.png" alt="Gmail" width="25" height="25" />
   </a>
   <a href="https://www.linkedin.com/in/patrickmathay/" style="display: inline-block; margin-left: 10px;">
-    <img src="images/lkd_image.png" alt="LinkedIn: Patrick Mathay" width="20" height="20" />
+    <img src="images/lkd_image.png" alt="LinkedIn: Patrick Mathay" width="25" height="25" />
   </a>
 </p>
+
 
 Works well with others. If you're cooking up something meaningful, I'm probably interested. Feel free to reach out.
