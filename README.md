@@ -29,4 +29,4 @@ I'm a former history teacher with a background in global health- now I'm learnin
 </p>
 
 
-Works well with others. If you're cooking up something meaningful, I'm probably interested. Feel free to reach out.
+Works well with others. I'm interested in Big Data projects involving education, economic development, machine learning, and/or public health. If those interests match yours and you're cooking up something meaningful, I'm probably interested. Feel free to reach out.
