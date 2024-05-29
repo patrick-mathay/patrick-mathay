@@ -29,4 +29,4 @@ I'm a former history teacher with a background in global health- now I'm learnin
 </p>
 
 
-Works well with others. I'm interested in Big Data projects involving education, economic development, machine learning, and/or public health. If you're cooking up something meaningful in those areas- reach out. I'm probably interested. 
+Works well with others. I'm interested in data projects involving education, economic development, machine learning, and/or public health. 
